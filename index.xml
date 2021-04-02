@@ -1,11 +1,16 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pyrat on Pyrat</title><link>https://pyrat.co/</link><description>Recent content in Pyrat on Pyrat</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://pyrat.co/" rel="self" type="application/rss+xml"/><item><title>About Pyrat Ltd</title><link>https://pyrat.co/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pyrat.co/about/</guid><description>&lt;p>Pyrat Ltd was founded by &lt;a href="https://xan.manning.io">Xan Manning&lt;/a> in January 2017.
-Pyrat Ltd was originally created when Xan faced redundancy in his role as a
-Systems/DevOps Engineer and was investigating contracting roles. In February
-2017, Xan found full time permanent employment and Pyrat Ltd remained a domant
-company having never traded.&lt;/p>
-&lt;p>A number of accounts had already been registered under the &amp;ldquo;Pyrat&amp;rdquo; name and
-became a brand for which Xan publishes code, for example
-&amp;ldquo;&lt;a href="https://pyrat.engineering/">PyratLabs&lt;/a>&amp;rdquo; on GitHub contains a number of free
-and open source projects published for consumption by the community. Projects
-will typically focus on Infrastructure as Code (IaC), automation and
-configuration management.&lt;/p></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pyrat on Pyrat</title><link>https://pyrat.co/</link><description>Recent content in Pyrat on Pyrat</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://pyrat.co/" rel="self" type="application/rss+xml"/><item><title>About Pyrat Ltd</title><link>https://pyrat.co/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pyrat.co/about/</guid><description>&lt;blockquote>
+&lt;p>Yes, it&amp;rsquo;s pronounced like &amp;ldquo;Pirate&amp;rdquo;.&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;!-- raw HTML omitted -->Pyrat&lt;!-- raw HTML omitted --> Ltd was founded by
+&lt;a href="https://xan.manning.io">Xan Manning&lt;/a> in January 2017.
+&lt;!-- raw HTML omitted -->Pyrat&lt;!-- raw HTML omitted --> Ltd was originally created when Xan
+faced redundancy in his role as a Systems/DevOps Engineer and was investigating
+contracting roles. In February 2017, Xan found full time permanent employment
+and &lt;!-- raw HTML omitted -->Pyrat&lt;!-- raw HTML omitted --> Ltd remained a domant company
+having never traded.&lt;/p>
+&lt;p>A number of accounts had already been registered under the
+&amp;ldquo;&lt;!-- raw HTML omitted -->Pyrat&lt;!-- raw HTML omitted -->&amp;rdquo; name and became a brand for which Xan
+publishes code, for example &amp;ldquo;&lt;a href="https://pyrat.engineering/">PyratLabs&lt;/a>&amp;rdquo; on
+GitHub contains a number of free and open source projects published for
+consumption by the community. Projects will typically focus on Infrastructure
+as Code (IaC), automation and configuration management.&lt;/p></description></item></channel></rss>
